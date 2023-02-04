@@ -6,7 +6,7 @@
 
 The motivation behind the project was to make the webpage more accessibility friendly for users who require the use of a screen reader as well as to recognize redundancy of styling elements over multiple classes and how to consolidate them down.
 
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
+- Why did you build this project?
 
 The project was completed as a means to educate us on how to look at an webpages existing code and how to replace code to be more accessibility friendly as well as to make the code more efficient.
 
