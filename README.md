@@ -22,4 +22,6 @@ I have learned the process of refactoring a webpage to make it more user friendl
 
 I also learned how to examine code to see where there can be improvements made to reduce the amount of redundancy among the classes and css.
 
-##
+![image](https://user-images.githubusercontent.com/79767820/216734689-a34fcacb-03ac-4b8f-aa91-3715dfc709df.png)
+
+Deployed application: https://travish-bot.github.io/challenge-1-marketing-agency/
